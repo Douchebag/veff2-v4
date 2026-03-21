@@ -1,3 +1,3 @@
 
 
-[Vercel app](https://veff2-v4.vercel.app/frettir/vefsidu-prufa)
+[Vercel app](https://veff2-v4.vercel.app)
